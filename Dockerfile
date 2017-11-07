@@ -12,4 +12,4 @@ COPY . /usr/src/bcoin
 CMD [ "./bin/bcoin"]
 
 # replace this with your application's default port
-EXPOSE 8888
+EXPOSE 8333
